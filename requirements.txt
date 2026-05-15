@@ -1,2 +1,3 @@
 streamlit
 google-cloud-text-to-speech
+google-auth
